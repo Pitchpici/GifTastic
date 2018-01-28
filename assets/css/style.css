@@ -1,0 +1,16 @@
+.item {
+	float:left;
+	margin: 5px;
+}
+
+.gifstyle {
+	float:left;
+	margin: 5px;
+}
+.jumbotron {
+	background-image: url("../images/music6.jpg");
+	background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+    text-shadow: 3px 3px #FF9999;
+}
