@@ -5,7 +5,7 @@ Implements the Giphy API. Displays actions pertaining to button clicked. Gifs an
 
 
 ## Technologies used
-- Bootstrap / Materialize CSS
+- Bootstrap 
 - jQuery
 - Giphy API
 
